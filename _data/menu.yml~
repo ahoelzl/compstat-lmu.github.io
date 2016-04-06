@@ -1,0 +1,17 @@
+- title: "Research"
+  href: "/research/"
+
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Misc"
+  href: "/misc/"
+
+- title: "test"
+  href: "/research/"
+  subcategories:
+   - subtitle: "Item 1"
+     subhref: "/research/test"
+   - subtitle: "Item 2"
+     subhref: "/research/test"

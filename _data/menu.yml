@@ -1,0 +1,20 @@
+- title: "About"
+  href: "/about/"
+
+- title: "Courses"
+  href: "/courses/"
+
+- title: "Teaching"
+  href: "/teaching/"
+
+- title: "People"
+  href: "/people/"
+  subcategories:
+    - subtitle: "Prof. Dr. Bernd Bischl"
+      subhref: "/people/bischl/"
+    - subtitle: "Giuseppe Casalicchio"
+      subhref: "/people/casalicchio/"
+    - subtitle: "Janek Thomas"
+      subhref: "/people/thomas/"
+    - subtitle: "Andreas Hölzl"
+      subhref: "/people/hoelzl"
