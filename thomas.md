@@ -4,54 +4,15 @@ title: Janek Thomas
 permalink: /people/thomas/
 pubs:
 
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2016"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2015"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2014"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2013"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
-    - title:   "Paper title in 3-7 words that sound like Clingon"
-      author:  "M. McFly, D. Kirk, L. Skywalker, H.J. Potter, I. Jones, H. Houdini"
-      journal: "Transactions on Black Magic"
-      note:    "(presented at Oz)"
-      year:    "2012"
-      url:     "http://publish-more-stuff.org"
-      doi:     "http://dx.doi.org"
-
 ---
 
 {% include image.html url="/images/janek.jpg" caption="" max_width="300px" align="right"%}
 
 ## About
 
-Janek Thomas M.Sc., ... ToDo
-<br><br><br><br><br>
+I am a PhD student at the department of statistics at the Ludwig-Maximilians-University Munich in the working group computational statistics. I did my bachelor in statistics with a minor in computer science and continued with a master's degree in statistics here at the LMU.
+
+Most of my work is releated to statistics, machine learning and data science.
 
 
 
@@ -73,7 +34,11 @@ Janek Thomas M.Sc., ... ToDo
 >
 > Janek.Thomas [at] stat.uni-muenchen.de
 
-## Teaching
+## News
+
+- April 2016: Started my PhD at the LMU
+
+- February 2016: Finished my Master's thesis about stability selection for component-wise gradient boosting in multiple dimensions
 
 ## Research interest
 
@@ -81,16 +46,6 @@ Janek Thomas M.Sc., ... ToDo
 * Boosting
 * Variable selection
 
-## Software
-
-
-
 ## Publications
 
-{% for pub in page.pubs %}
-{% if pub.internal %}[{{pub.title}}]({{pub.url | prepend: site.baseurl}}){% else %}[{{pub.title}}]({{pub.url}}){% endif %}<br />
-{{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.note %} *({{pub.note}})*
-{% endif %} *{{pub.year}}* [(doi)]({{pub.doi}})
-{% endfor %}
+...coming soon (hopefully)...
