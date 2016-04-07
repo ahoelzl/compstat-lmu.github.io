@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
+{% include image.html url="images/test.jpg" caption="" max_width="350px" align="right" %}
 
 This is the webpage of the working group computational statistics at the Ludwig-Maximilians-University Munich. Since summer 2015 [Prof. Dr. Bernd Bischl](/people/bischl/) is head of the working group.
 
