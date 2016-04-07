@@ -6,7 +6,13 @@ permalink: /
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+This is the webpage of the working group computational statistics at the Ludwig-Maximilians-University Munich. Since summer 2015 [Prof. Dr. Bernd Bischl](/people/bischl/) is head of the working group.
+
+The research focus of the group is statistical computing, statistical learning,
+model- and variable selection, biostatistics, classification, survival analysis, and predictive modelling.
+
+The group also organizes the [Münchner R Kurse](http://www.statistik.lmu.de/R/), which are training courses in the statistical programming language [R](https://www.r-project.org/).
+
 
 ## Contact
 > Insitut für Statistik
@@ -18,9 +24,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 > D-80539 München
 >
 >
-> Tel: +49 89 2180 2814 (Sekretariat)
+> Tel: +49 89 2180 2814 (secretariat)
 >
 > Fax: +49 89 2180 5308
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
