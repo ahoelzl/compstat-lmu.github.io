@@ -50,7 +50,12 @@ pubs:
 
 ## About
 
-Janek Thomas M.Sc., geboren 1990 in Wolfenbüttel, studierte Statistik an der LMU München. Er arbeitete unter anderem an der Ludwig-Maximilians-Universität München und der Friedrich-Alexander-Universität Erlangen in der Lehre und ist seit 2015 Dozent und Mitarbeiter der „Münchner R Kurse“. Seit 2016 ist er wissenschaftlicher Mitarbeiter an der LMU und promoviert im Bereich der computationalen Statistik.
+Janek Thomas M.Sc., ... ToDo
+<br><br><br><br><br>
+
+
+
+
 
 ## Contact
 
