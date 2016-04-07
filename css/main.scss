@@ -45,6 +45,10 @@ h2 {
     font-family: 'Open Sans', sans-serif;
 }
 
+.sub-menu {
+    background: #EFEFE9;
+}
+
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
