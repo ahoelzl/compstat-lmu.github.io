@@ -13,7 +13,7 @@ pubs:
 I am a PhD student at the department of statistics at the Ludwig-Maximilians-University Munich in the working group computational statistics. I did my bachelor in statistics with a minor in computer science and continued with a master's degree in statistics here at the LMU.
 
 Most of my work is releated to statistics, machine learning and data science.
-
+<br> <br>
 
 
 

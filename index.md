@@ -12,7 +12,7 @@ The research focus of the group is statistical computing, statistical learning,
 model- and variable selection, biostatistics, classification, survival analysis, and predictive modelling.
 
 The group also organizes the [Münchner R Kurse](http://www.statistik.lmu.de/R/), which are training courses in the statistical programming language [R](https://www.r-project.org/).
-
+<br> <br> <br>
 
 ## Contact
 > Insitut für Statistik
