@@ -85,3 +85,7 @@ Major projects:
 
 - [OpenML - Open Machine Learning](http://www.openml.org)
 - [COSEAL - Configuration and Selection of Algorithms](http://www.coseal.net)
+
+
+{%include mypapers.html %}
+
