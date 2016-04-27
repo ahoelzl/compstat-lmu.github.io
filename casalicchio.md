@@ -11,6 +11,8 @@ permalink: /people/casalicchio/
 
 I am a PhD student at the computational statistics working group at the Ludwig Maximilian University of Munich.
 
+<br>
+
 ## Contact
 
 > Institut für Statistik 
