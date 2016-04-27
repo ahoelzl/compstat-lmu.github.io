@@ -9,7 +9,7 @@ permalink: /people/casalicchio/
 
 ## About
 
-I am a PhD cantidate in Computational Statistics at the department of statistics at LMU Munich. 
+I am a PhD student at the computational statistics working group at the Ludwig Maximilian University of Munich.
 
 ## Contact
 
@@ -29,19 +29,13 @@ I am a PhD cantidate in Computational Statistics at the department of statistics
 
 ## News
 
-- 1988: I was born
-
-## Research interest
-
-- Bla
-- R and Statistical Software Development
+- 1988: born
 
 ## You can find me on
 
 - [GitHub](https://github.com/giuseppec)
 - [ResearchGate](https://www.researchgate.net/profile/Giuseppe_Casalicchio)
-- [Google Scholar](https://scholar.google.de/citations?user=s34UckkAAAAJ&hl=de)
-- [Kaggle]()
+- [Google Scholar](https://scholar.google.de/citations?user=MHcaZMQAAAAJ)
 
 ## Software
 
@@ -50,17 +44,13 @@ Packages I've contributed:
 - [OpenML R Package](http://www.github.com/OpenML/r) - OpenML connector in R. 
 
 Own packages:
-- [RBPcurve](link)  
-- [ordBTL](link) 
+- [RBPcurve](https://github.com/giuseppec/RBPcurve)  
+- [ordBTL](https://github.com/giuseppec/ordBTL) 
 
 ## Awards
 
-- add Crowdanalytix awards
-
-## Membership
-
-- [OpenML - Open Machine Learning](http://www.openml.org)
-- Applied R and DataGeeks
+- [Ranked 1st in "Pedict the next phone call competition"](http://docs.crowdanalytix.com/certificates/giuseppe-casalicchio/505P7142E75800AD.pdf)
+- [Ranked 1st in "Pedict Exacerbation in patients with Respiratory Diseases"](http://docs.crowdanalytix.com/certificates/giuseppe-casalicchio/627B9905Y83223JH.pdf)
 
 ## Publications
-to be added
+- [Google Scholar](https://scholar.google.de/citations?user=MHcaZMQAAAAJ)
