@@ -87,5 +87,5 @@ Major projects:
 - [COSEAL - Configuration and Selection of Algorithms](http://www.coseal.net)
 
 
-{%include mypapers.html %}
+{%include papers_bernd.html %}
 
