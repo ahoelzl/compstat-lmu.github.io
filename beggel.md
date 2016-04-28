@@ -13,9 +13,15 @@ permalink: /people/beggel/
 I am an external PhD student at the department of statistics at the Ludwig-Maximilians-University Munich in the working group computational statistics since February 2016. 
 <br> 
 <br>
-
-
-
+<br>
+<br>
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Contact
 
