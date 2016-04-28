@@ -11,20 +11,21 @@ permalink: /people/beggel/
 ## About
 
 I am an external PhD student at the department of statistics at the Ludwig-Maximilians-University Munich in the working group computational statistics since February 2016. 
-<br> <br>
+<br> 
+<br>
 
 
 
 
 ## Contact
 
-> Insitut für Statistik
+> Insitut fÃ¼r Statistik
 >
-> Ludwig-Maximilians-Universität München
+> Ludwig-Maximilians-UniversitÃ¤t MÃ¼nchen
 >
-> Ludwigstraße 33
+> LudwigstraÃŸe 33
 >
-> D-80539 München
+> D-80539 MÃ¼nchen
 >
 > laura.beggel [at] web.de
 
